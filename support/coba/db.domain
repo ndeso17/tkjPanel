@@ -1,0 +1,24 @@
+;
+; BIND data file for local loopback interface
+;
+$TTL    604800
+@       IN      SOA     (domain). admin.(domain). (
+                        2023525614      ; Serial
+                         604800         ; Refresh
+                          86400         ; Retry
+                        2419200         ; Expire
+                         604800 )       ; Negative Cache TTL
+; Nameserver
+@       IN      NS      (ns1).
+@       IN      NS      (ns2).
+ns1     IN      A       (ipAddress_v4)
+ns2     IN      A       (ipAddress_v4)
+
+; Subdomain & CNAME
+@       IN      A       (ipAddress_v4)
+www     IN      CNAME   @
+mail    IN      A       (ipAddress_v4)
+@       IN      MX      1 mail.(domain).
+@       IN      TXT      "v=spf1 ip4:(ipAddress_v4) -all"
+;reverse    kelas   record  ipAddress_v4.
+

@@ -1,0 +1,7 @@
+$TTL    86400  ; 1 hari dalam detik
+@       IN      SOA     (nameserver). admin.(nameserver). (
+             (noSerialDomain) ; Nomor Serial
+             86400      ; Refresh Interval (1 hari)
+              86400     ; Retry Interval (1 hari)
+            2419200     ; Expire Interval (28 hari)
+             86400 )    ; Negative Cache TTL (1 hari)
