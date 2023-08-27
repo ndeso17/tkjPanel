@@ -52,8 +52,6 @@ Aplikasi ini dilisensikan di bawah [MIT License](LICENSE).
 
 ENGLISH LANGUAGE
 
-# tkjPanel
-
 ## Description
 
 tkjPanel is a Node.js-based application that provides functionalities for managing server administration panels. This application can assist in efficiently managing various administrative tasks of a server.
@@ -101,4 +99,3 @@ This application is licensed under the [MIT License](LICENSE).
 ---
 
 Developed by [ndeso17]
-# tkjPanel
