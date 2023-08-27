@@ -46,7 +46,7 @@ Aplikasi ini dilisensikan di bawah [MIT License](LICENSE).
 
 ---
 
-# Dikembangkan oleh [ndeso17]
+Dikembangkan oleh [ndeso17]
 
 ---
 
