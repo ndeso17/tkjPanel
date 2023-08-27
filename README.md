@@ -12,7 +12,7 @@ Aplikasi ini dikembangkan menggunakan bahasa pemrograman Node.js dan Framework L
 
 1. Pastikan Anda memiliki Node.js terinstal di sistem Anda.
 2. Lakukan instalasi dependensi dengan menjalankan perintah berikut di terminal:
-3. Clone repositori tkjPanel UI [Link Repository UI](https://github.com/ndeso17/tkjPanel-UI) dan [Link Repository Server](https://github.com/ndeso17/tkjPanel).
+3. Clone repositori tkjPanel UI [Link Repository UI](https://github.com/ndeso17/tkjPanel-UI) dan tkjPanel Server [Link Repository Server](https://github.com/ndeso17/tkjPanel).
 4. Pastikan Anda mengikuti instruksi instalasi di repositori tkjPanel UI.
 5. Jika Anda menggunakan linux harap menambahkan interface tunnel dengan perintah tunctl -t (nama tunnel)
 6. Pastikan interface tersebut memiliki IP 192.168.12.1 (Ini program beta jadi nurut saja dulu, tetapi jika Anda sudah expert ya sudah terserah anda.)
@@ -64,7 +64,7 @@ This application is developed using the Node.js programming language and the Lar
 
 1. Make sure you have Node.js installed on your system.
 2. Install the dependencies by running the following command in the terminal:
-3. Clone the tkjPanel UI repository from [UI repository link](https://github.com/ndeso17/tkjPanel-UI) and [Server repository link](https://github.com/ndeso17/tkjPanel).
+3. Clone the tkjPanel UI repository from [UI repository link](https://github.com/ndeso17/tkjPanel-UI) and tkjPanel Server [Server repository link](https://github.com/ndeso17/tkjPanel).
 4. Follow the installation instructions provided in the tkjPanel UI repository.
 5. If you are using Linux, please add a tunnel interface using the command: tunctl -t (tunnel name)
 6. Ensure that the interface has an IP address of 192.168.12.1 (This is a beta program, so follow along for now, but if you are an expert, you can modify it as needed.)
