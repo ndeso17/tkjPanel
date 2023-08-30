@@ -14,20 +14,27 @@
     "bcrypt": "^5.1.0",
     "body-parser": "^1.20.2",
     "child_process": "^1.0.2",
+    "cpu-stat": "^2.0.1",
     "crypto": "^1.0.1",
+    "disk-stat": "^1.0.4",
     "dns": "^0.2.2",
     "dotenv": "^16.3.1",
     "ejs": "^3.1.9",
     "express": "^4.18.2",
+    "fluent-logger": "^3.4.1",
     "fs": "0.0.1-security",
     "fs-extra": "^11.1.1",
     "https": "^1.0.0",
     "jsonwebtoken": "^9.0.1",
+    "mem-stat": "^1.0.5",
     "multer": "^1.4.5-lts.1",
     "mysql": "^2.18.1",
     "mysql2": "^3.6.0",
+    "net-stat": "^2.0.1",
     "nodemon": "^3.0.1",
+    "os": "^0.1.2",
     "ping": "^0.4.4",
-    "sudo-prompt": "^9.2.1"
+    "sudo-prompt": "^9.2.1",
+    "tail": "^2.2.6"
   }
 }

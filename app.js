@@ -78,7 +78,7 @@ app.use("/createNewDatabase", createNewDatabase);
 const cobaGetIPNS = require("./app/routes/cobaGetIPNS");
 app.use("/getIpNs", cobaGetIPNS);
 
-//? File Manager
+//! File Manager
 const getAllFile = require("./app/routes/apiMenu/getAllFile.js");
 app.use("/getAllFile", getAllFile);
 const getFolderDomain = require("./app/routes/apiMenu/getFolderDomain");
@@ -95,6 +95,10 @@ const createNewFolder = require("./app/routes/apiMenu/createNewFolder.js");
 app.use("/createNewFolder", createNewFolder);
 const createNewFile = require("./app/routes/apiMenu/createNewFile.js");
 app.use("/createNewFile", createNewFile);
+//! End File Manager
+//? Server Information
+const serverStats = require("./app/routes/apiMenu/serverStats.js");
+app.use("/serverStats", serverStats);
 //Run port app setting
 app.listen(port, () => {
   console.log(`APi Berjalan Pada Port ${port}`);
