@@ -46,7 +46,7 @@ Aplikasi ini dilisensikan di bawah [MIT License](LICENSE).
 
 ---
 
-Dikembangkan oleh [ndeso17]
+Dikembangkan oleh [ndeso17](https://www.facebook.com/khilmyfr17/)
 
 ---
 
@@ -98,4 +98,4 @@ This application is licensed under the [MIT License](LICENSE).
 
 ---
 
-Developed by [ndeso17]
+Developed by [ndeso17](https://www.facebook.com/khilmyfr17/)
