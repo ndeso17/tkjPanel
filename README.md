@@ -98,4 +98,4 @@ This application is licensed under the [MIT License](LICENSE).
 
 ---
 
-Developed by [ndeso17](https://www.facebook.com/khilmyfr17/)
+Developed by [ndeso17](https://www.tiktok.com/@khilmyriska)
